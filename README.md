@@ -3,6 +3,7 @@ One of the assignments for MATH 189 (Exploratory Data Analysis) at UCSD. Contain
 
 ## Files
 `Writeup.pdf` Contains final formatted writeup of this project.
+
 `Code.pdf` Contains a Jupyter notebook PDF of all of the code used for the project.
 
 ## Overview
