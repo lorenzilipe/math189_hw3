@@ -2,6 +2,8 @@
 One of the assignments for MATH 189 (Exploratory Data Analysis) at UCSD. Contains PDFs of the code used and full writeup that was submitted.
 
 ## Files
+`Writeup.pdf` Contains final formatted writeup of this project.
+`Code.pdf` Contains a Jupyter notebook PDF of all of the code used for the project.
 
 ## Overview
 In this report we are trying to study the origin of DNA replication by looking for unusual clusters of palindromes within a DNA sequence. Our dataset 
